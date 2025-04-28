@@ -1,3 +1,3 @@
 module.exports = {
-  jwtSecretKey: "jwt_secret",
+  jwtSecretKey: "892ad9f9fb97dbe9185b0ad33e2489a45a3d6f0d248bc305cca65905319d66d54703f9619980bb906e26f158f1a06cac293409e6892d9828bb04c76b3f3f6414",
 };
